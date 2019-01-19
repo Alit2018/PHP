@@ -1,0 +1,18 @@
+Looks like in PHP the three major variables are :
+
+<?php
+	$mynumber = 1;
+	$mystring = “Hellow”;
+	$myarray = (“One”,”Two”,”Three”);
+	
+	echo "Looks like the PHP has 3 variables” . $mynumber . $mystring . $myarray
+	print “Looks like the PHP has 3 variables” . $mynumber . $mystring . $myarray
+?>
+
+In Python:
+
+width = 10
+length = 10
+figure = ’figure’
+array=[“cicle”,”rectangular”,”square”,”oval"]
+print(figure, width, length, array[2])
